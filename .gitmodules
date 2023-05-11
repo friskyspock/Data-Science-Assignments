@@ -43,3 +43,6 @@
 [submodule "crime-data-excelr"]
 	path = crime-data-excelr
 	url = https://github.com/friskyspock/crime-data-excelr.git
+[submodule "cocacola-and-airlines-data-excelr"]
+	path = cocacola-and-airlines-data-excelr
+	url = https://github.com/friskyspock/cocacola-and-airlines-data-excelr.git
