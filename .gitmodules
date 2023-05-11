@@ -37,3 +37,6 @@
 [submodule "company-data-excelr"]
 	path = company-data-excelr
 	url = https://github.com/friskyspock/company-data-excelr.git
+[submodule "delivery-time-data-excelr"]
+	path = delivery-time-data-excelr
+	url = https://github.com/friskyspock/delivery-time-data-excelr.git
