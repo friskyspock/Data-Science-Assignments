@@ -40,3 +40,6 @@
 [submodule "delivery-time-data-excelr"]
 	path = delivery-time-data-excelr
 	url = https://github.com/friskyspock/delivery-time-data-excelr.git
+[submodule "crime-data-excelr"]
+	path = crime-data-excelr
+	url = https://github.com/friskyspock/crime-data-excelr.git
