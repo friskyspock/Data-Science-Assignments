@@ -4,3 +4,27 @@
 [submodule "salary-data-excelr"]
 	path = salary-data-excelr
 	url = https://github.com/friskyspock/salary-data-excelr.git
+[submodule "book-data-excelr"]
+	path = book-data-excelr
+	url = https://github.com/friskyspock/book-data-excelr.git
+[submodule "gas-turbines-data-excelr"]
+	path = gas-turbines-data-excelr
+	url = https://github.com/friskyspock/gas-turbines-data-excelr.git
+[submodule "zoo-data-excelr"]
+	path = zoo-data-excelr
+	url = https://github.com/friskyspock/zoo-data-excelr.git
+[submodule "glass-data-excelr"]
+	path = glass-data-excelr
+	url = https://github.com/friskyspock/glass-data-excelr.git
+[submodule "wine-data-excelr"]
+	path = wine-data-excelr
+	url = https://github.com/friskyspock/wine-data-excelr.git
+[submodule "airlines-data-excelr"]
+	path = airlines-data-excelr
+	url = https://github.com/friskyspock/airlines-data-excelr.git
+[submodule "salary-hike-data-excelr"]
+	path = salary-hike-data-excelr
+	url = https://github.com/friskyspock/salary-hike-data-excelr.git
+[submodule "toyota-corolla-data-excelr"]
+	path = toyota-corolla-data-excelr
+	url = https://github.com/friskyspock/toyota-corolla-data-excelr.git
