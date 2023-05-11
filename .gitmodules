@@ -1,0 +1,6 @@
+[submodule "forestfire-data-excelr"]
+	path = forestfire-data-excelr
+	url = https://github.com/friskyspock/forestfire-data-excelr.git
+[submodule "salary-data-excelr"]
+	path = salary-data-excelr
+	url = https://github.com/friskyspock/salary-data-excelr.git
