@@ -28,3 +28,12 @@
 [submodule "toyota-corolla-data-excelr"]
 	path = toyota-corolla-data-excelr
 	url = https://github.com/friskyspock/toyota-corolla-data-excelr.git
+[submodule "50-startups-data-excelr"]
+	path = 50-startups-data-excelr
+	url = https://github.com/friskyspock/50-startups-data-excelr.git
+[submodule "fraud-check-data-excelr"]
+	path = fraud-check-data-excelr
+	url = https://github.com/friskyspock/fraud-check-data-excelr.git
+[submodule "company-data-excelr"]
+	path = company-data-excelr
+	url = https://github.com/friskyspock/company-data-excelr.git
