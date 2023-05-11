@@ -46,3 +46,6 @@
 [submodule "cocacola-and-airlines-data-excelr"]
 	path = cocacola-and-airlines-data-excelr
 	url = https://github.com/friskyspock/cocacola-and-airlines-data-excelr.git
+[submodule "basic-stats-and-hypothesis-excelr"]
+	path = basic-stats-and-hypothesis-excelr
+	url = https://github.com/friskyspock/basic-stats-and-hypothesis-excelr.git
