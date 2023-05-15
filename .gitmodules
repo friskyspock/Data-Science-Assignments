@@ -49,3 +49,6 @@
 [submodule "basic-stats-and-hypothesis-excelr"]
 	path = basic-stats-and-hypothesis-excelr
 	url = https://github.com/friskyspock/basic-stats-and-hypothesis-excelr.git
+[submodule "elon-musk-tweets-excelr"]
+	path = elon-musk-tweets-excelr
+	url = https://github.com/friskyspock/elon-musk-tweets-excelr.git
