@@ -52,3 +52,9 @@
 [submodule "elon-musk-tweets-excelr"]
 	path = elon-musk-tweets-excelr
 	url = https://github.com/friskyspock/elon-musk-tweets-excelr.git
+[submodule "amazon-reviews-excelr"]
+	path = amazon-reviews-excelr
+	url = https://github.com/friskyspock/amazon-reviews-excelr.git
+[submodule "movies-data-books-data-excelr"]
+	path = movies-data-books-data-excelr
+	url = https://github.com/friskyspock/movies-data-books-data-excelr.git
